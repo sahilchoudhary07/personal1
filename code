@@ -33,8 +33,8 @@ function getTotalSupply() {
 }
 
 // call your functions below this line
-mintNFT("art", 1, "Rahul");
+mintNFT("art", 1, "Sahil");
 mintNFT("apple", 2, "Shivani");
-mintNFT("Punk", 3, "Ayush");
+mintNFT("Punk", 3, "Mahak");
 listNFTs();
 getTotalSupply();
